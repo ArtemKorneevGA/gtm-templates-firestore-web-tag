@@ -1,0 +1,5 @@
+homepage: "https://gtm-gear.com/"
+documentation: "https://gtm-gear.com/templates/firestore-web-tag/"
+versions:
+  - sha: 123
+    changeNotes: Initial release.
